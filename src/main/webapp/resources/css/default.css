@@ -1,0 +1,19 @@
+body {
+    background-color: #3366CC; /* Цвет фона веб-страницы */
+}
+
+h1 {
+    background-color: #4341cc;
+    position: absolute;
+    left: 40%;
+
+}
+
+.boxLogin {
+    height: 260px;
+    width: 332px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    margin: -130px 0 0 -166px;
+}
